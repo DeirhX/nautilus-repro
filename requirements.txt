@@ -1,0 +1,7 @@
+ccxt
+pandas
+matplotlib
+numpy
+lakeapi
+nautilus_trader
+git+https://github.com/nextdorf/quantstats.git@main
